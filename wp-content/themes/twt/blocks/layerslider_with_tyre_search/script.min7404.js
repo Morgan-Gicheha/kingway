@@ -1,0 +1,2 @@
+!function(o){function s(){if(o(window).width()>767){var s=o(".custom-logo").position();o("#ls_talk_to_us_btn").css("margin-left",s.left+"px")}}o(window).on("load resize",function(o){s()}),s();var t=o("#ls_talk_to_us_btn").offset().top;o(window).scroll(function(){o(window).scrollTop()>t?(o("#ls_talk_to_us_btn").addClass("phone_fixed"),o("#layerslider_with_tyre_search").css("position","initial")):(o("#ls_talk_to_us_btn").removeClass("phone_fixed"),o("#layerslider_with_tyre_search").css("position",""))})}(jQuery);
+//# sourceMappingURL=script.min.js.map

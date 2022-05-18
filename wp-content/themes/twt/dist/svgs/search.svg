@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.685" height="14.675" viewBox="0 0 14.685 14.675">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Path_872" d="M273 1486.493a5.9 5.9 0 0 0 9.813 4.413l3.762 3.762a.356.356 0 1 0 .506-.5l-3.765-3.762a5.9 5.9 0 1 0-10.316-3.913zm11.1 0a5.193 5.193 0 1 1-5.2-5.191 5.2 5.2 0 0 1 5.2 5.191z" class="cls-1" transform="translate(-273 -1480.593)"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Rectangle_3103" d="M0 0H190.16V1174.5H0z" class="cls-1"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:.5px}
+        </style>
+    </defs>
+    <g id="Group_136" transform="translate(.25 .25)">
+        <g id="Group_1475">
+            <g id="Group_1474" clip-path="url(#clip-path)">
+                <g id="Group_135" transform="translate(-120.024 -644.304)">
+                    <g id="Group_1473">
+                        <g id="Group_1472" clip-path="url(#clip-path-2)">
+                            <g id="Group_134" transform="translate(119.465 643.742)">
+                                <path id="Path_4" fill="#fff" stroke="#fff" stroke-width="0.5px" d="M272.441 1480.031h15.307v15.3h-15.307z" transform="translate(-272.441 -1480.031)"/>
+                            </g>
+                        </g>
+                        <path id="Rectangle_3104" d="M0 0H190.16V1174.5H0z" class="cls-1"/>
+                    </g>
+                </g>
+            </g>
+            <path id="Path_873" stroke="#000" stroke-miterlimit="10" stroke-width="0.5px" d="M273 1486.493a5.9 5.9 0 0 0 9.813 4.413l3.762 3.762a.356.356 0 1 0 .506-.5l-3.765-3.762a5.9 5.9 0 1 0-10.316-3.913zm11.1 0a5.193 5.193 0 1 1-5.2-5.191 5.2 5.2 0 0 1 5.2 5.191z" transform="translate(-273 -1480.593)"/>
+        </g>
+    </g>
+</svg>
